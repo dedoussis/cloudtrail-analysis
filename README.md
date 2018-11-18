@@ -1,3 +1,3 @@
 # cloudtrail-analysis
 
-Analyse large CloudTrail event datasets.
+Analyze large CloudTrail event datasets.
